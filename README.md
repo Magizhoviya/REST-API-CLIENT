@@ -65,3 +65,7 @@ JSON processing library (Gson, Jackson, or built-in alternatives)
 API for testing: https://jsonplaceholder.typicode.com or any free public REST API
 
 This task is vital for understanding how different components of modern web applications interact and is especially important for those aiming to become full-stack developers or backend engineers.
+
+#OUTPUT
+
+<img width="565" height="136" alt="Image" src="https://github.com/user-attachments/assets/fd082ac5-2447-4960-a6f2-b6e718b256d2" />
